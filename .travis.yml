@@ -5,3 +5,5 @@ go:
   - "1.8"
   - "1.10.x"
   - master
+
+go_import_path: /home/travis/gopath/src/github.com/ampede15/IS-309
