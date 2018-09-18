@@ -6,4 +6,3 @@ go:
   - "1.10.x"
   - master
 
-go_import_path: github.com/ampede15/IS-309
